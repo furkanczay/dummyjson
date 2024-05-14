@@ -1,12 +1,23 @@
+"use client"
 import Link from 'next/link'
 import React from 'react'
-import { FaArrowRight, FaChevronRight } from 'react-icons/fa'
+import { FaArrowRight } from 'react-icons/fa'
 import { Button, Card, CardBody } from '@nextui-org/react'
 import Announcements from './Announcements'
+import toast from 'react-hot-toast'
 
-type Props = {}
+type Props = {
+  feedbackSuccess?: string
+}
 
 const Starter = (props: Props) => {
+  if(props.feedbackSuccess) {
+    if(props.feedbackSuccess === 'success') {
+      toast.success('Geri bildiriminiz başarıyla gönderildi.')
+    } else {
+      toast.error('Geri bildiriminiz gönderilirken bir hata oluştu.')
+    }
+  }
   return (
     <section id='starter' className="bg-white dark:bg-gray-900">
       <div className="py-8 px-4 mx-auto max-w-screen-full text-center lg:py-16 lg:px-12">

@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { FaClipboard, FaGithub, FaHandPointer, FaRoute } from 'react-icons/fa'
 import { ThemeSwitcher } from '../ThemeSwitcher'
 import LanguageSwitcher from '../LanguageSwitcher'
+import Feedback from '../Feedback'
 
 type Props = {}
 
@@ -36,6 +37,9 @@ const Sidebar = (props: Props) => {
               <FaGithub />
               <span className="ml-3">Github</span>
             </Link>
+          </li>
+          <li>
+            <Feedback />
           </li>
         </ul>
       </div>

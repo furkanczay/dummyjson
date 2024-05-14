@@ -16,5 +16,11 @@
     "title": "Mobil Uyumluluk sorunu çözüldü.",
     "content": "Artık mobil cihazlarda da kullanılabilir!",
     "color": "fix"
+  },
+  {
+    "category": "Hata",
+    "title": "Geri Bildirim Çift Uyarı Sorunu",
+    "content": "Geri bildirimden sonra iki kez uyarı verme sorunun farkındayım üzerinde çalışıyorum.",
+    "color": "error"
   }
 ]

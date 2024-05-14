@@ -6,13 +6,14 @@ import React from "react";
 import { Card, CardBody } from "@nextui-org/react";
 import { headers } from "next/headers";
 
-export default function Home() {
-  const origin = process.env.BASE_URL
+export default function Home({ searchParams } : { searchParams?: { feedback?: string }}) {
+  const origin = process.env.BASE_URL;
+  
   return (
     <main className="bg-gray-100 dark:bg-gray-900">
       <div className="grid grid-cols-12">
         <div className="col-span-12 md:col-span-10">
-          <Starter />
+          <Starter feedbackSuccess={searchParams?.feedback} />
           <Routes />
           <Examples origin={origin || ''} />
         </div>
