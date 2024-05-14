@@ -41,7 +41,7 @@ export default function Announcements() {
               <ModalHeader className="flex flex-col gap-1">Duyurular (SON 5)</ModalHeader>
               <ModalBody className="py-10">
                 {lastFiveAnnouncements.map((announcement, index) => (
-                  <Card className="bg-gray-700/50">
+                  <Card key={index} className="bg-gray-700/50">
                     <CardHeader>
                       {announcement.color === "info" ? (
                         <span className={`text-xs bg-blue-600 rounded-full text-white px-4 py-1.5 mr-3`}>
