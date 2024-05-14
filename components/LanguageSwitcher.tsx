@@ -22,13 +22,14 @@ const LanguageSwitcher = (props: Props) => {
         <DropdownItem
           key="tr"
           startContent={<Avatar src="/flags/tr.svg" alt="tr-flag" />}
+          value="tr"
         >
           Türkçe
         </DropdownItem>
         <DropdownItem
           key="en"
           startContent={<Avatar src="/flags/en.svg" alt="en-flag" />}
-          className=''
+          value="tr"
         >
           English <Chip>Soon</Chip>
         </DropdownItem>
