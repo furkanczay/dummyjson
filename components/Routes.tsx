@@ -36,9 +36,6 @@ const Routes = (props: Props) => {
       queryParams: null
     }
   ]
-
-  const categoriesSet = new Set(urls.map((url) => url.category));
-  const categories = [...categoriesSet];
   return (
     <section className='md:px-12'>
       <h2 id='routes' className="text-4xl font-extrabold mb-10 mt-10">Rotalar</h2>
