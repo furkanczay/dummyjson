@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Bilgilendirme",
+    "title": "Henüz Geliştirilme Aşamasındadır.",
+    "content": "Bu sayfa henüz geliştirilme aşamasındadır. Lütfen hataları bildiriniz.",
+    "color": "info"
+  },
+  {
+    "category": "Bilgilendirme",
+    "title": "Yeni Özellikler Eklendi.",
+    "content": "Yeni özellikler eklendi. Artık daha hızlı ve daha güvenli.",
+    "color": "success"
+  },
+  {
+    "category": "Hata Düzeltme",
+    "title": "Mobil Uyumluluk sorunu çözüldü.",
+    "content": "Artık mobil cihazlarda da kullanılabilir!",
+    "color": "fix"
+  }
+]

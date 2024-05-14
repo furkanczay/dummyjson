@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "productName": "Generic Frozen Gloves",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "846.00",
+    "productImage": "https://picsum.photos/seed/rAl3o3pC0/640/480",
+    "productDepartment": "Movies",
+    "productAdjective": "Bespoke"
+  },
+  {
+    "id": 2,
+    "productName": "Rustic Rubber Chicken",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "143.00",
+    "productImage": "https://picsum.photos/seed/NX4zgrAx/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 3,
+    "productName": "Fantastic Frozen Soap",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "718.00",
+    "productImage": "https://picsum.photos/seed/5Ii8FX1NN/640/480",
+    "productDepartment": "Health",
+    "productAdjective": "Rustic"
+  },
+  {
+    "id": 4,
+    "productName": "Elegant Metal Bacon",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "905.00",
+    "productImage": "https://picsum.photos/seed/hFcrth/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Bespoke"
+  },
+  {
+    "id": 5,
+    "productName": "Intelligent Fresh Keyboard",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "994.00",
+    "productImage": "https://picsum.photos/seed/vpGOQ/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Luxurious"
+  },
+  {
+    "id": 6,
+    "productName": "Gorgeous Bronze Soap",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "685.00",
+    "productImage": "https://picsum.photos/seed/AAgb1S65e/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Small"
+  },
+  {
+    "id": 7,
+    "productName": "Gorgeous Rubber Chips",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "65.00",
+    "productImage": "https://picsum.photos/seed/5gvZQXEaX/640/480",
+    "productDepartment": "Health",
+    "productAdjective": "Awesome"
+  },
+  {
+    "id": 8,
+    "productName": "Tasty Plastic Gloves",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "406.00",
+    "productImage": "https://picsum.photos/seed/ar7cnGji/640/480",
+    "productDepartment": "Home",
+    "productAdjective": "Awesome"
+  },
+  {
+    "id": 9,
+    "productName": "Elegant Frozen Bacon",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "66.00",
+    "productImage": "https://picsum.photos/seed/HZtPHgR/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 10,
+    "productName": "Recycled Plastic Shoes",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "523.00",
+    "productImage": "https://picsum.photos/seed/Ss13PSrmW/640/480",
+    "productDepartment": "Grocery",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 11,
+    "productName": "Tasty Frozen Chicken",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "654.00",
+    "productImage": "https://picsum.photos/seed/kRIqXv/640/480",
+    "productDepartment": "Home",
+    "productAdjective": "Modern"
+  },
+  {
+    "id": 12,
+    "productName": "Intelligent Granite Bacon",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "357.00",
+    "productImage": "https://picsum.photos/seed/ayZ6R/640/480",
+    "productDepartment": "Jewelery",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 13,
+    "productName": "Tasty Granite Bacon",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "428.00",
+    "productImage": "https://picsum.photos/seed/ywmipVnpg1/640/480",
+    "productDepartment": "Shoes",
+    "productAdjective": "Intelligent"
+  },
+  {
+    "id": 14,
+    "productName": "Electronic Bronze Pizza",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "72.00",
+    "productImage": "https://picsum.photos/seed/rIBfD/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Gorgeous"
+  },
+  {
+    "id": 15,
+    "productName": "Luxurious Metal Hat",
+    "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "productPrice": "408.00",
+    "productImage": "https://picsum.photos/seed/cVS3Z/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 16,
+    "productName": "Ergonomic Fresh Hat",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "858.00",
+    "productImage": "https://picsum.photos/seed/dOubPjA/640/480",
+    "productDepartment": "Kids",
+    "productAdjective": "Ergonomic"
+  },
+  {
+    "id": 17,
+    "productName": "Recycled Metal Gloves",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "492.00",
+    "productImage": "https://picsum.photos/seed/6xLTXAZ/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 18,
+    "productName": "Luxurious Cotton Bacon",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "733.00",
+    "productImage": "https://picsum.photos/seed/sqBrN/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 19,
+    "productName": "Gorgeous Granite Computer",
+    "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "productPrice": "5.00",
+    "productImage": "https://picsum.photos/seed/SlgiMd/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Recycled"
+  },
+  {
+    "id": 20,
+    "productName": "Ergonomic Bronze Bacon",
+    "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "productPrice": "743.00",
+    "productImage": "https://picsum.photos/seed/DpMf8i/640/480",
+    "productDepartment": "Grocery",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 21,
+    "productName": "Awesome Rubber Keyboard",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "41.00",
+    "productImage": "https://picsum.photos/seed/Dul6n1/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Bespoke"
+  },
+  {
+    "id": 22,
+    "productName": "Gorgeous Wooden Chair",
+    "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "productPrice": "702.00",
+    "productImage": "https://picsum.photos/seed/JL5Na/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Small"
+  },
+  {
+    "id": 23,
+    "productName": "Modern Concrete Pants",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "101.00",
+    "productImage": "https://picsum.photos/seed/M47v08T/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 24,
+    "productName": "Sleek Bronze Sausages",
+    "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "productPrice": "119.00",
+    "productImage": "https://picsum.photos/seed/KJV66of/640/480",
+    "productDepartment": "Tools",
+    "productAdjective": "Modern"
+  },
+  {
+    "id": 25,
+    "productName": "Bespoke Soft Bike",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "156.00",
+    "productImage": "https://picsum.photos/seed/T25WfzaeBV/640/480",
+    "productDepartment": "Health",
+    "productAdjective": "Recycled"
+  },
+  {
+    "id": 26,
+    "productName": "Modern Granite Pants",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "183.00",
+    "productImage": "https://picsum.photos/seed/sBmIDa/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Awesome"
+  },
+  {
+    "id": 27,
+    "productName": "Sleek Plastic Bacon",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "655.00",
+    "productImage": "https://picsum.photos/seed/MFEo3o/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Gorgeous"
+  },
+  {
+    "id": 28,
+    "productName": "Electronic Plastic Hat",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "565.00",
+    "productImage": "https://picsum.photos/seed/Y6xtjtqvX1/640/480",
+    "productDepartment": "Garden",
+    "productAdjective": "Ergonomic"
+  },
+  {
+    "id": 29,
+    "productName": "Handmade Fresh Shoes",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "80.00",
+    "productImage": "https://picsum.photos/seed/4WCjkR1/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Sleek"
+  },
+  {
+    "id": 30,
+    "productName": "Sleek Fresh Shirt",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "101.00",
+    "productImage": "https://picsum.photos/seed/gggIgH3/640/480",
+    "productDepartment": "Health",
+    "productAdjective": "Luxurious"
+  },
+  {
+    "id": 31,
+    "productName": "Tasty Rubber Salad",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "617.00",
+    "productImage": "https://picsum.photos/seed/eoIDwWE4Gh/640/480",
+    "productDepartment": "Garden",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 32,
+    "productName": "Modern Soft Mouse",
+    "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "productPrice": "22.00",
+    "productImage": "https://picsum.photos/seed/mfe9J/640/480",
+    "productDepartment": "Toys",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 33,
+    "productName": "Generic Plastic Soap",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "651.00",
+    "productImage": "https://picsum.photos/seed/Rx7QwTdv/640/480",
+    "productDepartment": "Home",
+    "productAdjective": "Fantastic"
+  },
+  {
+    "id": 34,
+    "productName": "Tasty Soft Computer",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "681.00",
+    "productImage": "https://picsum.photos/seed/bJlRZfb5/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Rustic"
+  },
+  {
+    "id": 35,
+    "productName": "Bespoke Frozen Hat",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "661.00",
+    "productImage": "https://picsum.photos/seed/4camy/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 36,
+    "productName": "Luxurious Fresh Shirt",
+    "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "productPrice": "27.00",
+    "productImage": "https://picsum.photos/seed/sDUTqDHj/640/480",
+    "productDepartment": "Movies",
+    "productAdjective": "Gorgeous"
+  },
+  {
+    "id": 37,
+    "productName": "Ergonomic Steel Fish",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "986.00",
+    "productImage": "https://picsum.photos/seed/rqu6kfhh/640/480",
+    "productDepartment": "Electronics",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 38,
+    "productName": "Handcrafted Rubber Keyboard",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "755.00",
+    "productImage": "https://picsum.photos/seed/INOohB/640/480",
+    "productDepartment": "Movies",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 39,
+    "productName": "Bespoke Wooden Cheese",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "113.00",
+    "productImage": "https://picsum.photos/seed/qG7ZRC74/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Intelligent"
+  },
+  {
+    "id": 40,
+    "productName": "Handcrafted Cotton Shirt",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "917.00",
+    "productImage": "https://picsum.photos/seed/IbzyBwi7xp/640/480",
+    "productDepartment": "Toys",
+    "productAdjective": "Rustic"
+  },
+  {
+    "id": 41,
+    "productName": "Intelligent Plastic Shoes",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "101.00",
+    "productImage": "https://picsum.photos/seed/590Y261/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 42,
+    "productName": "Fantastic Steel Chair",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "264.00",
+    "productImage": "https://picsum.photos/seed/xUIKr/640/480",
+    "productDepartment": "Tools",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 43,
+    "productName": "Unbranded Steel Gloves",
+    "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "productPrice": "696.00",
+    "productImage": "https://picsum.photos/seed/FmATT/640/480",
+    "productDepartment": "Home",
+    "productAdjective": "Handmade"
+  },
+  {
+    "id": 44,
+    "productName": "Modern Fresh Tuna",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "519.00",
+    "productImage": "https://picsum.photos/seed/f8BJMOX/640/480",
+    "productDepartment": "Tools",
+    "productAdjective": "Tasty"
+  },
+  {
+    "id": 45,
+    "productName": "Bespoke Rubber Computer",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "727.00",
+    "productImage": "https://picsum.photos/seed/hYnHgC0/640/480",
+    "productDepartment": "Toys",
+    "productAdjective": "Electronic"
+  },
+  {
+    "id": 46,
+    "productName": "Luxurious Frozen Gloves",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "332.00",
+    "productImage": "https://picsum.photos/seed/eLGbbKu0c/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Rustic"
+  },
+  {
+    "id": 47,
+    "productName": "Fantastic Cotton Sausages",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "796.00",
+    "productImage": "https://picsum.photos/seed/57twa7Et0/640/480",
+    "productDepartment": "Electronics",
+    "productAdjective": "Unbranded"
+  },
+  {
+    "id": 48,
+    "productName": "Bespoke Wooden Towels",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "870.00",
+    "productImage": "https://picsum.photos/seed/nlPQEaaW/640/480",
+    "productDepartment": "Movies",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 49,
+    "productName": "Modern Wooden Chips",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "914.00",
+    "productImage": "https://picsum.photos/seed/DwCPWYng/640/480",
+    "productDepartment": "Health",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 50,
+    "productName": "Gorgeous Frozen Mouse",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "526.00",
+    "productImage": "https://picsum.photos/seed/LL6y9JmS/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 51,
+    "productName": "Modern Soft Shoes",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "698.00",
+    "productImage": "https://picsum.photos/seed/8eYAzxBlk/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Fantastic"
+  },
+  {
+    "id": 52,
+    "productName": "Handmade Frozen Chicken",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "426.00",
+    "productImage": "https://picsum.photos/seed/fURCzrsJY/640/480",
+    "productDepartment": "Books",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 53,
+    "productName": "Elegant Cotton Mouse",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "692.00",
+    "productImage": "https://picsum.photos/seed/YIAMjP/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Fantastic"
+  },
+  {
+    "id": 54,
+    "productName": "Gorgeous Bronze Hat",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "355.00",
+    "productImage": "https://picsum.photos/seed/6NpGoAOWk/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 55,
+    "productName": "Small Fresh Computer",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "591.00",
+    "productImage": "https://picsum.photos/seed/gP6bhtPGS/640/480",
+    "productDepartment": "Movies",
+    "productAdjective": "Recycled"
+  },
+  {
+    "id": 56,
+    "productName": "Modern Cotton Ball",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "178.00",
+    "productImage": "https://picsum.photos/seed/mSlJANLG/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Bespoke"
+  },
+  {
+    "id": 57,
+    "productName": "Unbranded Fresh Table",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "42.00",
+    "productImage": "https://picsum.photos/seed/MAaqtNq/640/480",
+    "productDepartment": "Games",
+    "productAdjective": "Luxurious"
+  },
+  {
+    "id": 58,
+    "productName": "Generic Wooden Table",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "896.00",
+    "productImage": "https://picsum.photos/seed/ZBvBL99MC/640/480",
+    "productDepartment": "Tools",
+    "productAdjective": "Awesome"
+  },
+  {
+    "id": 59,
+    "productName": "Tasty Steel Shirt",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "970.00",
+    "productImage": "https://picsum.photos/seed/NwHJEZJz/640/480",
+    "productDepartment": "Toys",
+    "productAdjective": "Practical"
+  },
+  {
+    "id": 60,
+    "productName": "Fantastic Bronze Computer",
+    "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "productPrice": "999.00",
+    "productImage": "https://picsum.photos/seed/s9yIw4Ioa/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Tasty"
+  },
+  {
+    "id": 61,
+    "productName": "Incredible Rubber Hat",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "278.00",
+    "productImage": "https://picsum.photos/seed/cjHYhUH/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 62,
+    "productName": "Oriental Plastic Gloves",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "512.00",
+    "productImage": "https://picsum.photos/seed/BefecW/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 63,
+    "productName": "Oriental Bronze Cheese",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "116.00",
+    "productImage": "https://picsum.photos/seed/Ce8qKqef7Z/640/480",
+    "productDepartment": "Grocery",
+    "productAdjective": "Recycled"
+  },
+  {
+    "id": 64,
+    "productName": "Gorgeous Concrete Shirt",
+    "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "productPrice": "946.00",
+    "productImage": "https://picsum.photos/seed/d3dsF3Vkl/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Gorgeous"
+  },
+  {
+    "id": 65,
+    "productName": "Awesome Frozen Fish",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "486.00",
+    "productImage": "https://picsum.photos/seed/OumvDkB/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Intelligent"
+  },
+  {
+    "id": 66,
+    "productName": "Intelligent Soft Gloves",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "65.00",
+    "productImage": "https://picsum.photos/seed/tuyIPc/640/480",
+    "productDepartment": "Electronics",
+    "productAdjective": "Electronic"
+  },
+  {
+    "id": 67,
+    "productName": "Handcrafted Steel Sausages",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "138.00",
+    "productImage": "https://picsum.photos/seed/YbYKukgw/640/480",
+    "productDepartment": "Kids",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 68,
+    "productName": "Sleek Frozen Bacon",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "677.00",
+    "productImage": "https://picsum.photos/seed/DcAIet5J/640/480",
+    "productDepartment": "Computers",
+    "productAdjective": "Ergonomic"
+  },
+  {
+    "id": 69,
+    "productName": "Practical Plastic Pants",
+    "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "productPrice": "608.00",
+    "productImage": "https://picsum.photos/seed/tYIsl/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Intelligent"
+  },
+  {
+    "id": 70,
+    "productName": "Modern Granite Chair",
+    "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "productPrice": "463.00",
+    "productImage": "https://picsum.photos/seed/lCvExFzzEB/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Awesome"
+  },
+  {
+    "id": 71,
+    "productName": "Oriental Plastic Towels",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "685.00",
+    "productImage": "https://picsum.photos/seed/Ww5QlP4/640/480",
+    "productDepartment": "Books",
+    "productAdjective": "Small"
+  },
+  {
+    "id": 72,
+    "productName": "Rustic Concrete Bike",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "950.00",
+    "productImage": "https://picsum.photos/seed/LQ4BdO/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 73,
+    "productName": "Licensed Concrete Pants",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "335.00",
+    "productImage": "https://picsum.photos/seed/b0QCXfhE/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Tasty"
+  },
+  {
+    "id": 74,
+    "productName": "Refined Granite Towels",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "948.00",
+    "productImage": "https://picsum.photos/seed/BRhTCtV/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Electronic"
+  },
+  {
+    "id": 75,
+    "productName": "Rustic Soft Pizza",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "458.00",
+    "productImage": "https://picsum.photos/seed/pMUZ0K8o/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 76,
+    "productName": "Recycled Bronze Salad",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "111.00",
+    "productImage": "https://picsum.photos/seed/qMGV1/640/480",
+    "productDepartment": "Shoes",
+    "productAdjective": "Luxurious"
+  },
+  {
+    "id": 77,
+    "productName": "Small Cotton Gloves",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "122.00",
+    "productImage": "https://picsum.photos/seed/LTbGWoy/640/480",
+    "productDepartment": "Sports",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 78,
+    "productName": "Tasty Granite Gloves",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "691.00",
+    "productImage": "https://picsum.photos/seed/iQce5wVblZ/640/480",
+    "productDepartment": "Electronics",
+    "productAdjective": "Licensed"
+  },
+  {
+    "id": 79,
+    "productName": "Licensed Fresh Computer",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "199.00",
+    "productImage": "https://picsum.photos/seed/WKaQgV40K8/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 80,
+    "productName": "Oriental Metal Tuna",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "20.00",
+    "productImage": "https://picsum.photos/seed/Cz3I3A6Ld9/640/480",
+    "productDepartment": "Books",
+    "productAdjective": "Handmade"
+  },
+  {
+    "id": 81,
+    "productName": "Luxurious Soft Shirt",
+    "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "productPrice": "684.00",
+    "productImage": "https://picsum.photos/seed/0BSVRO/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Incredible"
+  },
+  {
+    "id": 82,
+    "productName": "Elegant Granite Salad",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "489.00",
+    "productImage": "https://picsum.photos/seed/kFxycoet/640/480",
+    "productDepartment": "Kids",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 83,
+    "productName": "Rustic Fresh Towels",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "367.00",
+    "productImage": "https://picsum.photos/seed/spDfTqi/640/480",
+    "productDepartment": "Kids",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 84,
+    "productName": "Electronic Plastic Gloves",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "124.00",
+    "productImage": "https://picsum.photos/seed/avFBATg/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Rustic"
+  },
+  {
+    "id": 85,
+    "productName": "Electronic Fresh Pants",
+    "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "productPrice": "958.00",
+    "productImage": "https://picsum.photos/seed/UnSxF7/640/480",
+    "productDepartment": "Computers",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 86,
+    "productName": "Small Wooden Gloves",
+    "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "productPrice": "694.00",
+    "productImage": "https://picsum.photos/seed/XAvoFR/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Generic"
+  },
+  {
+    "id": 87,
+    "productName": "Bespoke Steel Chair",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "300.00",
+    "productImage": "https://picsum.photos/seed/w4AGOD9ZOf/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Ergonomic"
+  },
+  {
+    "id": 88,
+    "productName": "Intelligent Steel Chips",
+    "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "productPrice": "393.00",
+    "productImage": "https://picsum.photos/seed/xPdCqbe/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 89,
+    "productName": "Recycled Granite Cheese",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "986.00",
+    "productImage": "https://picsum.photos/seed/X8YuilY9r/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 90,
+    "productName": "Luxurious Granite Pizza",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "927.00",
+    "productImage": "https://picsum.photos/seed/EyDfNNa3YZ/640/480",
+    "productDepartment": "Garden",
+    "productAdjective": "Fantastic"
+  },
+  {
+    "id": 91,
+    "productName": "Awesome Granite Bike",
+    "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "productPrice": "270.00",
+    "productImage": "https://picsum.photos/seed/Fb0JxYB/640/480",
+    "productDepartment": "Electronics",
+    "productAdjective": "Handcrafted"
+  },
+  {
+    "id": 92,
+    "productName": "Handcrafted Granite Keyboard",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "98.00",
+    "productImage": "https://picsum.photos/seed/PaQveu7X/640/480",
+    "productDepartment": "Beauty",
+    "productAdjective": "Intelligent"
+  },
+  {
+    "id": 93,
+    "productName": "Recycled Soft Computer",
+    "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "productPrice": "325.00",
+    "productImage": "https://picsum.photos/seed/gtCQG3AuW/640/480",
+    "productDepartment": "Clothing",
+    "productAdjective": "Ergonomic"
+  },
+  {
+    "id": 94,
+    "productName": "Refined Rubber Shirt",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "375.00",
+    "productImage": "https://picsum.photos/seed/OxNhDEBgP/640/480",
+    "productDepartment": "Industrial",
+    "productAdjective": "Fantastic"
+  },
+  {
+    "id": 95,
+    "productName": "Intelligent Plastic Car",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "663.00",
+    "productImage": "https://picsum.photos/seed/yGEs6rE/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Small"
+  },
+  {
+    "id": 96,
+    "productName": "Electronic Soft Mouse",
+    "productDescription": "The Football Is Good For Training And Recreational Purposes",
+    "productPrice": "380.00",
+    "productImage": "https://picsum.photos/seed/bxowMOy/640/480",
+    "productDepartment": "Outdoors",
+    "productAdjective": "Oriental"
+  },
+  {
+    "id": 97,
+    "productName": "Electronic Rubber Bike",
+    "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "productPrice": "813.00",
+    "productImage": "https://picsum.photos/seed/nkIJjVGS2/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Refined"
+  },
+  {
+    "id": 98,
+    "productName": "Bespoke Steel Gloves",
+    "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "productPrice": "114.00",
+    "productImage": "https://picsum.photos/seed/b5w3PGAi/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Bespoke"
+  },
+  {
+    "id": 99,
+    "productName": "Refined Plastic Chair",
+    "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "productPrice": "398.00",
+    "productImage": "https://picsum.photos/seed/G9RiZZaz/640/480",
+    "productDepartment": "Automotive",
+    "productAdjective": "Elegant"
+  },
+  {
+    "id": 100,
+    "productName": "Incredible Concrete Chips",
+    "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "productPrice": "494.00",
+    "productImage": "https://picsum.photos/seed/qVVPTW/640/480",
+    "productDepartment": "Music",
+    "productAdjective": "Licensed"
+  }
+]
