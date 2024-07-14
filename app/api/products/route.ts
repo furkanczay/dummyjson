@@ -1,17 +1,17 @@
 import { NextRequest, NextResponse } from "next/server";
-import Products from '@/data/product.json';
+import {products} from '@/data/products';
 
 export async function GET(request: NextRequest){
-  let products = Products;
+  let data = products;
   const searchParams = request.nextUrl.searchParams;
   if(searchParams.has('skip') || searchParams.has('limit')){
     const skip = parseInt(searchParams.get('skip') as string) || 0;
-    const limit = parseInt(searchParams.get('limit') as string) || products.length;
-    products = products.slice(skip, skip + limit);
+    const limit = parseInt(searchParams.get('limit') as string) || data.length;
+    data = data.slice(skip, skip + limit);
   }
   
   return NextResponse.json({
     success: true,
-    data: products
+    data: data
   })
 }

@@ -48,13 +48,13 @@ const Routes = (props: Props) => {
         <TableBody items={urls} className="text-md text-gray-700 bg-gray-50 dark:bg-gray-900 dark:text-gray-400">
           {(url => (
             <TableRow key={url.category}>
-              <TableCell className="px-6 py-3 text-white">
+              <TableCell className="px-6 py-3 dark:text-white">
                 <Link className='text-blue-500' target='_blank' href={url.url}>{url.endpoint || url.url}</Link>
               </TableCell>
-              <TableCell className="px-6 py-3 text-white uppercase">
+              <TableCell className="px-6 py-3 dark:text-white uppercase">
                 {url.methods}
               </TableCell>
-              <TableCell className="px-6 py-3 text-white">
+              <TableCell className="px-6 py-3 dark:text-white">
                 {url.queryParams ? url.queryParams : "---"}
               </TableCell>
             </TableRow>

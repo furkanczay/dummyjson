@@ -1,4 +1,4 @@
-import Products from '@/data/product.json';
+import { products as Products } from '@/data/products';
 import defaultHeaders from '@/utils/cors';
 import { NextResponse } from 'next/server';
 
