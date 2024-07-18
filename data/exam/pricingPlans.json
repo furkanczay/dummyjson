@@ -1,0 +1,29 @@
+[
+      {
+        "name": "basic",
+        "price": "$19.99",
+        "features": [
+          "500gb storage",
+          "2 users allowed",
+          "send up to 3 gb"
+        ]
+      },
+      {
+        "name": "professional",
+        "price": "$24.99",
+        "features": [
+          "1tb storage",
+          "5 users allowed",
+          "send up to 10gb"
+        ]
+      },
+      {
+        "name": "master",
+        "price": "$39.99",
+        "features": [
+          "2tb storage",
+          "10 users allowed",
+          "send up to 20 gb"
+        ]
+      }
+]

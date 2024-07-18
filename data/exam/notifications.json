@@ -1,0 +1,56 @@
+[
+      {
+        "type": "reaction",
+        "user": "Mark Webber",
+        "notification": "reacted to your recent post",
+        "details": "My first tournament today!",
+        "time": "1m ago",
+        "unread": true
+      },
+      {
+        "type": "follow",
+        "user": "Angela Gray",
+        "notification": "followed you",
+        "time": "5m ago",
+        "unread": true
+      },
+      {
+        "type": "group",
+        "user": "Jacob Thompson",
+        "notification": "has joined your group",
+        "details": "Chess Club",
+        "time": "1 day ago",
+        "unread": true
+      },
+      {
+        "type": "message",
+        "user": "Rizky Hasanuddin",
+        "notification": "sent you a private message",
+        "details": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+        "time": "5 days ago",
+        "unread": true
+      },
+      {
+        "type": "comment",
+        "user": "Kimberly Smith",
+        "notification": "commented on your picture",
+        "time": "1 week ago",
+        "unread": true
+      },
+      {
+        "type": "reaction",
+        "user": "Nathan Peterson",
+        "notification": "reacted to your recent post",
+        "details": "5 end-game strategies to increase your win rate",
+        "time": "2 weeks ago",
+        "unread": true
+      },
+      {
+        "type": "group",
+        "user": "Anna Kim",
+        "notification": "left the group",
+        "details": "Chess Club",
+        "time": "2 weeks ago",
+        "unread": true
+      }
+]
