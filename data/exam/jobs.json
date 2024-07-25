@@ -2,7 +2,7 @@
   {
     "id": 1,
     "company": "Photosnap",
-    "logo": "/exam/jobs/photosnap.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/photosnap.svg",
     "new": true,
     "featured": true,
     "position": "Senior Frontend Developer",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "company": "Manage",
-    "logo": "/exam/jobs/manage.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/manage.svg",
     "new": true,
     "featured": true,
     "position": "Fullstack Developer",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "company": "Account",
-    "logo": "/exam/jobs/account.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/account.svg",
     "new": true,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "company": "MyHome",
-    "logo": "/exam/jobs/myhome.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/myhome.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -62,7 +62,7 @@
   {
     "id": 5,
     "company": "Loop Studios",
-    "logo": "/exam/jobs/loop-studios.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/loop-studios.svg",
     "new": false,
     "featured": false,
     "position": "Software Engineer",
@@ -77,7 +77,7 @@
   {
     "id": 6,
     "company": "FaceIt",
-    "logo": "/exam/jobs/faceit.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/faceit.svg",
     "new": false,
     "featured": false,
     "position": "Junior Backend Developer",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "company": "Shortly",
-    "logo": "/exam/jobs/shortly.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/shortly.svg",
     "new": false,
     "featured": false,
     "position": "Junior Developer",
@@ -107,7 +107,7 @@
   {
     "id": 8,
     "company": "Insure",
-    "logo": "/exam/jobs/insure.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/insure.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -122,7 +122,7 @@
   {
     "id": 9,
     "company": "Eyecam Co.",
-    "logo": "/exam/jobs/eyecam-co.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/eyecam-co.svg",
     "new": false,
     "featured": false,
     "position": "Full Stack Engineer",
@@ -137,7 +137,7 @@
   {
     "id": 10,
     "company": "The Air Filter Company",
-    "logo": "/exam/jobs/the-air-filter-company.svg",
+    "logo": "https://dummyjson.czaylabs.com.tr/exam/jobs/the-air-filter-company.svg",
     "new": false,
     "featured": false,
     "position": "Front-end Dev",
