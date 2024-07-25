@@ -28,14 +28,14 @@
         "notification": "sent you a private message",
         "details": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
         "time": "5 days ago",
-        "unread": true
+        "unread": false
       },
       {
         "type": "comment",
         "user": "Kimberly Smith",
         "notification": "commented on your picture",
         "time": "1 week ago",
-        "unread": true
+        "unread": false
       },
       {
         "type": "reaction",
@@ -43,7 +43,7 @@
         "notification": "reacted to your recent post",
         "details": "5 end-game strategies to increase your win rate",
         "time": "2 weeks ago",
-        "unread": true
+        "unread": false
       },
       {
         "type": "group",
@@ -51,6 +51,6 @@
         "notification": "left the group",
         "details": "Chess Club",
         "time": "2 weeks ago",
-        "unread": true
+        "unread": false
       }
 ]
